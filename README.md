@@ -10,7 +10,7 @@ I did an engineering internship in the project sectors and worked as a real esta
 
 After dissatisfaction with the area of ​​civil construction and with a great desire to migrate to the area of ​​software development, I met Trybe, where I am currently a student at this school that teaches us to program, learn and work.
 
-Extremely essential programming languages ​​for the current market, such as JavaScript and Python, and frameworks such as React and Redux for the front-end; SQL, Docker, Node.js, TypeScript, POO and MongoDB for the Backend; in addition to data structures, they are technologies seen during Trybe's full stack course.
+Extremely essential programming languages ​​for the current market, such as JavaScript and Python, and frameworks such as React, React hooks and Redux for the front-end; SQL, Docker, Node.js, TypeScript, POO and MongoDB for the Backend; in addition to data structures, they are technologies seen during Trybe's full stack course.
 
 I'm passionate about technological advances and companies working to contribute to a better digital world for everyone.
 
