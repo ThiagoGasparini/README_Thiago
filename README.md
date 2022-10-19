@@ -30,7 +30,7 @@ I am passionate about technological advances and companies working to contribute
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://ejs.co/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" 
-width="45" height="45" alt="Ejs" /></a>
+width="45" height="40" alt="Ejs" /></a>
 </p>
 
 ### Socials
