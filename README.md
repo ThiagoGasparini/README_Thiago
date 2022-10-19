@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student Web Developer Full Stack at Trybe!!!
 --------------------------------------------
 
-Graduated from the UniOpet University Center in Civil Engineering and currently a Full Stack Web Development student at Trybe, a school that teaches us how to program, learn and work.
+Graduated from Centro Universitário UniOpet in Civil Engineering and currently student of Full Stack Web Development at Trybe. School that teaches us to program, learn and work.
 
 With a great desire to migrate to the area of ​​software development, which reverberated internally for a long time in my life, I decided that this was the time to make this career transition.
 
-Extremely essential programming languages ​​for the current market, such as JavaScript and Python, and frameworks such as React and Redux for the front-end; SQL, Docker, Node.js, TypeScript, POO and MongoDB for the Backend; in addition to data structures, they are technologies seen during Trybe's full stack course.
+Extremely essential programming languages ​​for the current market, such as JavaScript, and frameworks such as React and Redux for the front-end; MySQL, Docker, Node.js, TypeScript, POO and MongoDB for the Backend; In addition to data structures using Python, these are technologies seen during Trybe's Full Stack course.
 
-I am passionate about technological advances and companies working to contribute to a better digital world for all.
+I am passionate about technology and how it can facilitate and improve our quality of life.
 
 * 🌍  I'm based in Curitiba
 * ✉️  You can contact me at [thiago\_engprod@outlook.com](mailto:thiago_engprod@outlook.com)
