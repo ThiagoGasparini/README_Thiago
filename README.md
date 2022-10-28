@@ -14,7 +14,6 @@ I am passionate about technology and how it can facilitate and improve our quali
 
 * 🌍  I'm based in Curitiba
 * ✉️  You can contact me at [thiago\_engprod@outlook.com](mailto:thiago_engprod@outlook.com)
-* My portifolio: https://thiago-gasparini-portfolio.vercel.app/
 
 ### Skills
 
