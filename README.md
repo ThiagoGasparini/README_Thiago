@@ -6,9 +6,9 @@ Student Web Developer Full Stack at Trybe!!!
 
 Graduated from UniOpet University Center in Civil Engineering and currently a Full Stack Web Development student at Trybe.
 
-With a great desire to migrate to the software development area, which reverberated internally for a long time in my life, I decided this was the moment to make this career transition. 
+With no identification with the areas of my graduation and with a great desire to migrate to software development, which reverberated internally for a long time in my life, I then decided to start my career transition to the world of programming in December 2021.
 
-Amazed by the connection between front-end and back-end, I decided to develop myself as a Full Stack. I have knowledge in HTML5, CSS3, JavaScript, React.js, Automated Testing with Jest and RTL on the front-end. MySQL, Docker, Node.js, TypeScript, POO, MongoDB and tests with Mocha and Sinon in the back. As well as agile methodologies (SCRUM and KANBAN). I am also studying and improving myself with courses through Udemy. 
+Amazed by the Front-end connection with the back-end, I decided to deepen my career as a Full Stack. I have knowledge in HTML5, CSS3, JavaScript, React.js, EJS, Unit tests with Jest and RTL in Front-end. MySQL, PostgreSQL, Docker, Node.js, Express.js, Sequelize, TypeORM, TypeScript, OOP, MongoDB and tests with Mocha, Chai and Sinon in the backend. As well as agile methodologies (SCRUM and KANBAN).
 
 I am passionate about technology and how it can facilitate and improve our quality of life.
 
