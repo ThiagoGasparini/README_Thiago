@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thiago Gasparini
 ========================================================================================================================================
 
-Student Web Developer Full Stack at Trybe!!!
+Student Web Developer Full Stack at Trybe!!
 --------------------------------------------
 
 Graduated from UniOpet University Center in Civil Engineering and currently a Full Stack Web Development student at Trybe.
