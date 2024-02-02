@@ -1,16 +1,24 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thiago Gasparini
 ========================================================================================================================================
 
-Student Web Developer Full Stack at Trybe!!!
+Web Developer Full Stack
 --------------------------------------------
 
-Graduated from UniOpet University Center in Civil Engineering and currently a Full Stack Web Development student at Trybe.
+I would like to formally introduce myself: my name is Thiago Gasparini, I am 30 years old, and I am currently studying Analysis and Systems Development at PUCPR, with an expected completion date in July 2026. Additionally, I hold a complete degree in Civil Engineering, but I decided to transition to software development in December 2021.
 
-With no identification with the areas of my graduation and with a great desire to migrate to software development, which reverberated internally for a long time in my life, I then decided to start my career transition to the world of programming in December 2021.
+I completed the Full Stack Web Development course at Trybe in February 2023, enhancing my education with professional courses on Udemy and JStack. Currently, I am enrolled in Analysis and Systems Development at PUCPR, as mentioned earlier. Throughout this period, I have undertaken various practical programming projects, which are available in my portfolio, LinkedIn, and GitHub.
 
-Amazed by the Front-end connection with the back-end, I decided to deepen my career as a Full Stack. I have knowledge in HTML5, CSS3, JavaScript, React.js, EJS, Unit tests with Jest and RTL in Front-end. MySQL, PostgreSQL, Docker, Node.js, Express.js, Sequelize, TypeORM, TypeScript, OOP, MongoDB and tests with Mocha, Chai and Sinon in the backend. As well as agile methodologies (SCRUM and KANBAN).
+I have expertise in Front-end development (HTML5, CSS3, JavaScript, TypeScript, React.js) and Back-end development (MySQL, PostgreSQL, Node.js, Express.js, Docker).
 
-I am passionate about technology and how it can facilitate and improve our quality of life.
+In my Analysis and Systems Development course, the subjects cover topics such as Web, Mobile Devices, Big Data, IoT, Databases, Software Engineering, and Project Management, along with agile methodologies (SCRUM and KANBAN).
+
+I have a passion for technology and how it can impact and improve people's quality of life.
+
+I invite you to explore my portfolio at:
+https://thiagogasparini-dev.vercel.app/
+
+Best regards,
+Thiago Gasparini
 
 * 🌍  I'm based in Curitiba
 * ✉️  You can contact me at [thiago\_engprod@outlook.com](mailto:thiago_engprod@outlook.com)
