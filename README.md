@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 Full Stack Web Developer
---------------------------------------------
+---------------------------------------------
 
 I would like to formally introduce myself: my name is Thiago Gasparini, I am 30 years old, and I am currently studying Analysis and Systems Development at PUCPR, with an expected completion date in July 2026. Additionally, I hold a complete degree in Civil Engineering, but I decided to transition to software development in December 2021.
 
